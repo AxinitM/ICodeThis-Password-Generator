@@ -24,7 +24,7 @@ Implement the following functionalities:
 
 ## Links
 
-[Password Generator](https://your-solution-url.com)
+[Password Generator](https://axinitm.github.io/ICodeThis-Password-Generator/)
 
 ## Built with
 
